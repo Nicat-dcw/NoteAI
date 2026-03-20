@@ -15,7 +15,7 @@ export const AI_DEFAULT_BASE_URLS: Record<AIProvider, string> = {
 }
 
 export const AI_DEFAULT_MODELS: Record<AIProvider, string> = {
-  openai: 'gpt-4o-mini',
+  openai: 'gpt-5-mini',
   claude: 'claude-3-5-sonnet-latest',
   gemini: 'gemini-1.5-flash',
   other: 'gpt-5.1',
